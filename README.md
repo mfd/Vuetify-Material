@@ -1,5 +1,14 @@
-# vuetify-presets
+# Vuetify Demo site
+based on https://photography.johnleider.com/
 
+## Vuetify Material Presets
+
+https://vuetifyjs.com/en/features/presets/#material-studies
+
+## Material
+https://material.io/design/material-studies/about-our-material-studies.html#about-material-studies
+
+# Dev
 ## Project setup
 ```
 yarn install
