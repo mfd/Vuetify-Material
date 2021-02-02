@@ -48,5 +48,10 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "babel": {
+    "presets": [
+      "@vue/cli-plugin-babel/preset"
+    ]
+  }
 }
